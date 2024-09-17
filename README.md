@@ -3,9 +3,7 @@
 ### 点个小星星呗～
 ### 欢迎继续提供相关资料，可以issue或者pull request
 
-
-### 收集不易 分享请注明来源～
-https://github.com/w1109790800/Permeable
+https://github.com/az0ne/Permeable
 
 ## 目录结构
 
